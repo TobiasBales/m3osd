@@ -1,2 +1,4 @@
 Debug
 Release
+obj/M3OSD/*
+startup_stm32f10x_md_gcc.s
